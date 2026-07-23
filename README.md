@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Zara Ali banner" />
+<img src="./zara_linkedin_banner.png" width="100%" alt="Zara Ali banner" />
 
 <br/>
 
